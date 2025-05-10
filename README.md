@@ -1,65 +1,70 @@
-# Client-side-advantage
-# ⚔️ Client-side advantage – A 1.21.5 Fabric Modpack for Partial Anarchy SMPs
+# ⚔️ Client-side Advantage – A 1.21.5 Fabric Modpack for Partial Anarchy SMPs
 
-**Client-side advantage** is a **client-side Fabric modpack** built for Minecraft **1.21.5**, designed specifically for **anarchy-style** or **minimal-rule SMP servers**. This pack offers **quality-of-life (QoL) improvements** and useful tools while **avoiding any hacks or unfair advantages**. It's perfect for players who want to experience chaos and freedom, but still value performance and usability.
+**Client-side Advantage** is a lightweight **client-side modpack** for Minecraft **1.21.5**, built using the **Fabric** modloader. It’s designed for players on **anarchy-style** or **minimal-rule SMP servers** who want a smoother, more customizable experience — without relying on hacks or unfair mods.
 
-> ⚠️ This pack is **client-side only**, so it can be used on most vanilla or lightly-modded servers without issue.
+> 🎯 A curated selection of **quality-of-life (QoL)** mods that are **100% client-side** and **hack-free**.
 
 ---
 
-## 🎯 Features
+## 🌐 Quick Links
 
-- ✔️ **Client-side only** – no server-side mods required
-- 🔧 **QoL Enhancements** – from minimaps to inventory tweaks
-- 🚫 **No hacks or cheats** – just clean, fair gameplay
-- 🎮 Perfect for **partial anarchy** and **semi-vanilla SMPs**
+- 🔗 [Modrinth Project Page](https://modrinth.com/modpack/client-side-advantage)
+- 🛠 [GitHub Repository](https://github.com/FrostleGoo/Client-side-advantage/tree/main)
+- 🐛 [Issue Tracker](https://github.com/FrostleGoo/Client-side-advantage/issues)
+
+---
+
+## 🎮 Key Features
+
+- ✔️ 100% **client-side only** – safe for most SMP servers
+- 🔧 Includes essential **QoL mods** (visuals, HUD, performance)
+- ⚖️ Designed for **fair play** – **no cheats or hacks**
+- 🌍 Compatible with **vanilla and lightly-modded servers**
+- 🚀 Performance optimizations for smoother gameplay
 
 ---
 
 ## 📦 Installation
 
 1. Install [Fabric Loader](https://fabricmc.net/use/) for Minecraft **1.21.5**
-2. Download the latest release from [Modrinth](https://modrinth.com/modpack/) *(insert actual link here)*
-3. Place the pack contents into your `.minecraft` directory or use a launcher like Prism or MultiMC
-4. Launch and enjoy!
+2. Download this pack via the [Modrinth page](https://modrinth.com/modpack/client-side-advantage)
+3. Import it into your launcher (Prism, MultiMC, GDLauncher, etc.)
+4. Launch and enjoy your enhanced anarchy-lite experience!
 
 ---
 
-## 🧩 Mod List
+## 🧩 Mod Highlights
 
-A curated collection of client-side mods. A few examples:
-- **Sodium** – Performance optimization
-- **LambDynamicLights** – Dynamic light sources
-- **Reese's Sodium Options** – Better video settings UI
-- **ModMenu** – Easy mod management
-- **MiniHUD** – On-demand HUD utilities
-- **InventoryHUD+** – Displays inventory status
-- *(and more)*
+Some of the included client-side mods:
+- 🌀 **Sodium** – Boosts FPS and game performance
+- 💡 **LambDynamicLights** – Realistic dynamic lighting
+- 🧰 **ModMenu** – Easy mod management UI
+- 🎛 **Reese’s Sodium Options** – Better video settings interface
+- 🧱 **MiniHUD** – Toggleable visual info (light levels, block info)
+- 🎒 **InventoryHUD+** – Overlay for armor, inventory, and more
 
-Full list available on the Modrinth project page.
+> 📝 Full mod list available on [Modrinth](https://modrinth.com/modpack/client-side-advantage)
 
 ---
 
-## 🐛 Issues / Suggestions
+## ❓ FAQ
 
-Spotted a bug or have an idea to improve the pack? Open an issue on the GitHub repo!
+> **Is this allowed on most servers?**  
+Yes! Since all included mods are client-side and don't affect gameplay mechanics or add unfair advantages, it's safe to use on most vanilla or semi-vanilla servers.
 
-🔗 **GitHub Repo**: [github.com/yourusername/anarchy-lite](https://github.com/yourusername/anarchy-lite)  
-🐞 **Issue Tracker**: [github.com/yourusername/anarchy-lite/issues](https://github.com/yourusername/anarchy-lite/issues)
+> **Can I suggest mods or report bugs?**  
+Absolutely! Visit the [Issue Tracker](https://github.com/FrostleGoo/Client-side-advantage/issues) to submit suggestions or bug reports.
 
 ---
 
 ## 📜 License
 
-This modpack is open source under the **MIT License**. You’re free to fork or remix, just give credit.
+This project is open source under the **MIT License**. You're welcome to fork, modify, and redistribute with credit.
 
 ---
 
-## ✊ Why This Modpack?
+## ❤️ Why Use This Pack?
 
-This is **my personal vision** of what a non-hacked, player-friendly anarchy experience should feel like. It gives you the freedom and rawness of anarchy servers, while making the game smoother, faster, and more informative—**without cheating**.
+**Client-side Advantage** is built for players who love the freedom of anarchy but want the polish and tools of a modern client. It enhances the vanilla experience without going overboard — perfect for **partial anarchy** play without cheating.
 
----
-
-**Built with love for chaos, not cheats.**
-
+> Built by a player, for players. No hacks. Just better Minecraft.
